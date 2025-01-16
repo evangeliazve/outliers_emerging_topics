@@ -1,1 +1,1 @@
-# outliers_emerging_topics
+# Predicting Topic Emergence through Outliers in News Articles
